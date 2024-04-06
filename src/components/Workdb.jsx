@@ -15,7 +15,7 @@ const Projectdata = [
     {
         imgsrc: pro2,
         title: "Space wars",
-        text : "Developed a captivating Pygame project featuring a thrilling space combat game. Players navigate two distinct spacecraft in an adrenaline-fueled battle for supremacy. The project showcases proficient Python coding skills, game development expertise, and a flair for creating immersive user experiences",
+        text : "Developed a captivating Pygame project featuring a thrilling space combat game. Players navigate two distinct spacecraft in an adrenaline-fueled battle for supremacy. The project showcases proficient Python coding skills, game development expertise, and a flair for creating immersive user experiences. Working on Reinforcement Learning Bot.",
         view : "www.example.com",
         source: "www.example.com/source"
     },

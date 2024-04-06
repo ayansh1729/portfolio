@@ -13,12 +13,13 @@
 }
 
 .project-card{
+    height: fit-content;
     background-color: #1a1919;
     padding: 1.2rem 1rem;
 }
 
 .project-card img{
-    height: 55%;
+    height: 250px;
     width: 100%;
 }
 
