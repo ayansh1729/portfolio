@@ -11,7 +11,7 @@ function Project() {
         <Navbar/>
         <Heroimg2 heading="PROJECTS." text = "Some of my projects."/>
         <Work/>
-        <Pricing/>
+        {/* <Pricing/> */}
         <Footer/>
     </div>
   )
