@@ -19,7 +19,7 @@ function About_content() {
         <div className="my__line"></div>
         <div className="quotes">
           <p className="quote">"If your thirst is strong enough water isn't far away ..." - Ayansh</p>
-          <p className="quote"> - "Radhe Radhe" - </p>
+          <p className="quote"> - "Even if you do RIGHT things for WRONG resons...RIGHT results will happen..." - </p>
           {/* Add more quotes as needed */}
         </div>
         <PDFViewer />

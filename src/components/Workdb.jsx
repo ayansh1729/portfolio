@@ -6,6 +6,13 @@ import pro5 from "../assets/chatter_1.png";
 
 const Projectdata = [
     {
+        imgsrc: pro5,
+        title: "Chatter",
+        text : "Developed a versatile chatting app reminiscent of WhatsApp. Users can create chatrooms, exchange messages, and express themselves with emojis. With a fully responsive design, Elevate your chatting experience with CHATTER! (Working on private chatrooms with multimedia transfer,Random connection with strangers facility)",
+        view : "https://chatter-delta-steel.vercel.app",
+        source: "https://github.com/ayansh1729/Chatter"
+    },
+    {
         imgsrc: pro1,
         title: "Kissan_gpt",
         text : "Utilizing React with Vite.js, our project empowers farmers by providing a seamless interface to pose inquiries and receive pertinent responses. Integrating machine learning algorithms, we enable swift access to agricultural insights, fostering informed decision-making and enhancing productivity within the farming community.",
@@ -29,16 +36,9 @@ const Projectdata = [
     {
         imgsrc: pro4,
         title: "E second-hand shop",
-        text : "Engineered a dynamic e-commerce platform with React and Vite.js, integrating Firebase for backend functionalities. This project facilitates effortless buying and selling of goods, efficient state management, and secure database operations.",
+        text : "Engineered a dynamic e-commerce platform with React and Vite.js, integrating Firebase for backend functionalities. This project facilitates effortless buying and selling of goods, efficient state management, and secure database operations also prioritizes user experience with responsive design and seamless navigation",
         view : "https://github.com/ayansh1729/DBMS_project.git",
         source: "https://github.com/ayansh1729/DBMS_project.git"
-    },
-    {
-        imgsrc: pro5,
-        title: "Chatter",
-        text : "Developed a versatile chatting app reminiscent of WhatsApp. Users can create chatrooms, exchange messages, and express themselves with emojis. With a fully responsive design, Elevate your chatting experience with CHATTER!",
-        view : "https://chatter-delta-steel.vercel.app",
-        source: "https://github.com/ayansh1729/Chatter"
     }
 ];
 
