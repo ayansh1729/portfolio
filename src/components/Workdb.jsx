@@ -3,6 +3,7 @@ import pro2 from "../assets/spaceship.png";
 import pro3 from "../assets/chat_1.png";
 import pro4 from "../assets/e_shop_1.png";
 import pro5 from "../assets/chatter_1.png";
+import pro6 from "../assets/ML_project.png"
 
 const Projectdata = [
     {
@@ -23,14 +24,14 @@ const Projectdata = [
         imgsrc: pro2,
         title: "Space wars",
         text : "Developed a captivating Pygame project featuring a thrilling space combat game. Players navigate two distinct spacecraft in an adrenaline-fueled battle for supremacy. The project showcases proficient Python coding skills, game development expertise, and a flair for creating immersive user experiences. Working on Reinforcement Learning Bot.",
-        view : "www.example.com",
-        source: "www.example.com/source"
+        view : "https://github.com/ayansh1729/space_wars.git",
+        source: "https://github.com/ayansh1729/space_wars.git"
     },
     {
         imgsrc: pro3,
         title: "GUI socket chat",
         text : "Crafted a versatile terminal chat application utilizing socket programming, enriched with advanced features such as seamless file sharing and private messaging capabilities. This project highlights adept handling of network communication, robust file management, and secure data transmission, demonstrating proficiency in Python development and networking concepts.",
-        view : "https://github.com/ayansh1729/DBMS_project.git",
+        view : "https://github.com/ayansh1729/Gui_chat.git",
         source: "https://github.com/ayansh1729/Gui_chat.git"
     },
     {
@@ -39,7 +40,14 @@ const Projectdata = [
         text : "Engineered a dynamic e-commerce platform with React and Vite.js, integrating Firebase for backend functionalities. This project facilitates effortless buying and selling of goods, efficient state management, and secure database operations also prioritizes user experience with responsive design and seamless navigation",
         view : "https://github.com/ayansh1729/DBMS_project.git",
         source: "https://github.com/ayansh1729/DBMS_project.git"
-    }
+    },
+    {
+        imgsrc: pro6,
+        title: "Maths score predictor",
+        text : "An end-to-end ML model predicts students' math scores using parameters like study hours, attendance, and previous grades. Built with Python, the model is deployed using Flask for a user-friendly interface, enabling educators to input student data and receive immediate, accurate predictions to tailor educational support and improve outcomes.",
+        view : "https://github.com/ayansh1729/dsproject.git",
+        source: "https://github.com/ayansh1729/dsproject.git"
+    },
 ];
 
 export default Projectdata;
